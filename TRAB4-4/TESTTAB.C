@@ -168,4 +168,4 @@ TST_tpCondRet TST_EfetuarComando( char * ComandoTeste )
 
 }  /* Fim função: TTAB &Testar tabuleiro */
 
-/********** Fim do módulo de implementação: TTAB Teste lista de símbolos **********/
+/********** Fim do módulo de implementação: TTAB Teste Lista de símbolos **********/
